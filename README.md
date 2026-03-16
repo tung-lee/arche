@@ -1,4 +1,4 @@
-# Claude Context Kit
+# Archē: The Vibecoding Framework
 
 A structured project framework for building web apps with Claude Code — designed for non-technical founders and developers who want Claude to work like a real collaborator, not just a code generator.
 
