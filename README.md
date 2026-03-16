@@ -2,6 +2,9 @@
 
 A structured project framework for building web apps with Claude Code — designed for non-technical founders and developers who want Claude to work like a real collaborator, not just a code generator.
 
+<img width="1904" height="1000" alt="CleanShot 2026-03-16 at 20 42 43@2x" src="https://github.com/user-attachments/assets/99ac31b0-a5ea-49bb-ac29-93f3b607e4a0" />
+
+
 ---
 
 ## What This Is
