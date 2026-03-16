@@ -1,6 +1,6 @@
 # Archē: The Vibecoding Framework
 
-Archē is a structured project framework for building web apps with Claude Code. Designed for non-technical people who aspire to build and want Claude to work like a real collaborator.
+Archē is a structured project framework or "meta-context" for building web apps with Claude Code. Designed for non-technical people who aspire to build and want Claude to work like a real collaborator.
 
 <img width="1904" height="1000" alt="CleanShot 2026-03-16 at 20 42 43@2x" src="https://github.com/user-attachments/assets/99ac31b0-a5ea-49bb-ac29-93f3b607e4a0" />
 
